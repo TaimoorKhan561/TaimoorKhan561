@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Taimoor Khan</h1>
 <h3 align="center">Code, Laugh, Commit: The Fun Side of GitHub! :/</h3>
 
-<img align="right" src="https://tenor.com/view/monitors-typing-screen-laptops-new-computer-gif-2554775961674464073" alt="Description of the image" width="500" height= "300">
+<img align="right" src="![image](https://github.com/TaimoorKhan561/TaimoorKhan561/assets/77340303/e64d3126-3d3d-4a05-8e11-85ed916f7b79)
+" alt="Description of the image" width="500" height= "300">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
