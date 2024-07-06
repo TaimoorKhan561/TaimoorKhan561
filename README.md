@@ -6,8 +6,6 @@
 <style>
     .right-aligned {
         float: right;
-        width: 300px;
-        height: 300px;
     }
 </style>
 
