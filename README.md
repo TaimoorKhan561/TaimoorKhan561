@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taimoor Khan</h1>
 <h3 align="center">Code, Laugh, Commit: The Fun Side of GitHub! :/</h3>
 
-<img align="right" src="https://media1.tenor.com/m/WkgpyPpxpDUAAAAC/work-internet.gif" alt="Description of the image" width="500" height= "300">
+<img align="right" src="https://media1.tenor.com/m/WkgpyPpxpDUAAAAC/work-internet.gif" alt="Description of the image" width="300" height= "200">
 
 - ⚡ Fun fact **I can do three things perfectly: eating, sleeping, and pretending to think about eating while I sleep! :)**
 
