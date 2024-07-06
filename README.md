@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Taimoor Khan</h1>
 <h3 align="center">Code, Laugh, Commit: The Fun Side of GitHub! :/</h3>
 
+<img src="path/to/your/image.jpg" alt="Description of the image" style="float: right; width: 300px; height: 300px;">
+
+<style>
+    .right-aligned {
+        float: right;
+        width: 300px;
+        height: 300px;
+    }
+</style>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
