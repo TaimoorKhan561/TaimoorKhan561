@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Taimoor Khan</h1>
 <h3 align="center">Code, Laugh, Commit: The Fun Side of GitHub! :/</h3>
 
-<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Description of the image" width="500" height= "300">
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Description of the image" width="500" height= "300" class="right-aligned">
 
     <style>
         .right-aligned {
             float: right;
-            width: 300px;
-            height: 300px;
         }
     </style>
 
