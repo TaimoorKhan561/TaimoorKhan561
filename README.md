@@ -3,6 +3,10 @@
 
 <img align="right" src="https://media1.tenor.com/m/WkgpyPpxpDUAAAAC/work-internet.gif" alt="Description of the image" width="500" height= "300">
 
+- ⚡ Fun fact **I can do three things perfectly: eating, sleeping, and pretending to think about eating while I sleep! :)**
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
